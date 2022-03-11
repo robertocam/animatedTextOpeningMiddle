@@ -4,8 +4,8 @@ Animated text. When hovering the mouse it opens in half, displaying a hidden tex
 
 ## Closed Layout
 
-![](https://bitbucket.org/xxxx/api-yyyy/public/doc1.2/APIyyy1.2/BPM/1.2/pessoas.png)
+![](https://github.com/robertocam/animatedTextOpeningMiddle/blob/main/images/closed%20layout.png)
 
 ## Open Layout
 
-![](https://img.shields.io/badge/-sejaluz.roberto@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sejaluz.roberto@gmail.com)
+![](https://github.com/robertocam/animatedTextOpeningMiddle/blob/main/images/open%20layout.png)
